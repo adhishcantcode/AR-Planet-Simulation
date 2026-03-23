@@ -13,6 +13,14 @@ An interactive **Augmented Reality (AR) Solar System experience** built with Uni
 
 AR Planet Simulation is a mobile-based AR application built using Unity and AR Foundation. It combines UI systems with real-world spatial tracking to allow users to visualize planets around them.
 
+---
+
+## Demo (Video)
+
+- [Demo Video 1](./images/WhatsApp%20Video%202026-03-23%20at%205.46.30%20PM.mp4)
+- [Demo Video 2](./images/WhatsApp%20Video%202026-03-23%20at%205.49.29%20PM.mp4)
+
+---
 
 ## Features
 

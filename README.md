@@ -4,41 +4,43 @@ An interactive **Augmented Reality (AR) Solar System experience** built with Uni
 
 ---
 
+## Demo (Video)
+
+https://github.com/adhishcantcode/AR-Planet-Simulation/blob/main/images/WhatsApp%20Video%202026-03-23%20at%205.46.30%20PM.mp4
+https://github.com/adhishcantcode/AR-Planet-Simulation/blob/main/images/WhatsApp%20Video%202026-03-23%20at%205.49.29%20PM.mp4
+
+---
+
 ## Features
 
-* **Planet Selection UI**
+- **Planet Selection UI**
+  - Swipe or click through different planets (Earth, Mercury, etc.)
+  - Smooth carousel-style navigation
 
-  * Swipe or click through different planets (Earth, Mercury, etc.)
-  * Smooth carousel-style navigation
+- **AR Placement**
+  - Place planets in your real-world environment using AR
+  - Surface detection and anchoring
 
-* **AR Placement**
+- **Realistic Planet Models**
+  - High-quality textures and spherical models
+  - Scaled visuals for better understanding
 
-  * Place planets in your real-world environment using AR
-  * Surface detection and anchoring
+- **Interactive Experience**
+  - Rotate and view planets from all angles
+  - Switch between planets seamlessly
 
-* **Realistic Planet Models**
-
-  * High-quality textures and spherical models
-  * Scaled visuals for better understanding
-
-* **Interactive Experience**
-
-  * Rotate and view planets from all angles
-  * Switch between planets seamlessly
-
-* **Simple Navigation**
-
-  * Back button to return to selection screen
-  * Clean and minimal UI
+- **Simple Navigation**
+  - Back button to return to selection screen
+  - Clean and minimal UI
 
 ---
 
 ## Tech Stack
 
-* **Game Engine:** Unity (2021+ recommended)
-* **Language:** C#
-* **AR Framework:** AR Foundation / ARCore / ARKit
-* **Platform:** Android / iOS (AR-supported devices)
+- **Game Engine:** Unity (2021+ recommended)
+- **Language:** C#
+- **AR Framework:** AR Foundation / ARCore / ARKit
+- **Platform:** Android / iOS (AR-supported devices)
 
 ---
 
@@ -46,13 +48,32 @@ An interactive **Augmented Reality (AR) Solar System experience** built with Uni
 
 ```bash
 Assets/
-│── Import/            # Imported assets (models, textures, planet resources)
-│── Materials/         # Materials for planets and rendering
-│── Scenes/            # Unity scenes (UI scene, AR scene)
-│── Scripts/           # C# scripts (carousel, AR placement, controls)
-│── TextMesh Pro/      # Text rendering essentials
-│── XR/                # AR/XR configuration and settings
+│── Import/
+│── Materials/
+│── Scenes/
+│── Scripts/
+│── TextMesh Pro/
+│── XR/
 ```
+
+---
+
+## Screenshots / Demo
+
+### Planet Selection UI
+
+![Earth UI](./images/Screenshot_20260323_170929_AR%20Planet%20Simulation.jpg)
+![Venus UI](./images/Screenshot_20260323_170938_AR%20Planet%20Simulation.jpg)
+![Neptune UI](./images/Screenshot_20260323_170942_AR%20Planet%20Simulation.jpg)
+
+### AR Placement
+
+![AR Earth](./images/WhatsApp%20Image%202026-03-23%20at%205.46.17%20PM.jpeg)
+![AR Mars](./images/WhatsApp%20Image%202026-03-23%20at%205.46.18%20PM.jpeg)
+![AR Jupiter](./images/WhatsApp%20Image%202026-03-23%20at%205.46.22%20PM.jpeg)
+![AR Neptune](./images/WhatsApp%20Image%202026-03-23%20at%205.46.26%20PM.jpeg)
+![AR Venus](./images/WhatsApp%20Image%202026-03-23%20at%205.46.28%20PM.jpeg)
+![AR Mercury](./images/WhatsApp%20Image%202026-03-23%20at%205.46.30%20PM.jpeg)
 
 ---
 
@@ -61,26 +82,23 @@ Assets/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/ar-planet-simulation.git
+   git clone https://github.com/adhishcantcode/AR-Planet-Simulation.git
    ```
 
 2. Open the project in Unity
 
 3. Install required packages:
-
-   * AR Foundation
-   * ARCore XR Plugin (Android) / ARKit (iOS)
+   - AR Foundation
+   - ARCore XR Plugin (Android) / ARKit (iOS)
 
 4. Switch platform:
-
-   * `File → Build Settings → Android / iOS`
+   - `File → Build Settings → Android / iOS`
 
 5. Enable:
+   - Camera permissions
+   - AR support in XR settings
 
-   * Camera permissions
-   * AR support in XR settings
-
-6. Build & run on a real device (AR won’t work in editor)
+6. Build & run on a real device
 
 ---
 
@@ -95,66 +113,19 @@ Assets/
 
 ---
 
-## Screenshots / Demo
-
-### Planet Selection UI
-
-![Planet Selection](./images/earth_ui.png)
-![Planet Selection](./images/mercury_ui.png)
-
-### AR Placement
-
-![AR Mercury](./images/ar_mercury.png)
-![AR Venus](./images/ar_venus.png)
-
-> Place your screenshots inside a folder named `images` in your repository and update file names if needed.
-
----
-
-## Learning Outcomes
-
-* Understanding AR development in Unity
-* Working with 3D models and textures
-* Implementing UI navigation systems
-* Using real-world spatial tracking
-
----
-
 ## Future Improvements
 
-* Add all 8 planets + moons
-* Planet information panel (facts, size, distance)
-* Scale comparison mode
-* Orbit simulation
-* Multiplayer AR experience
-
----
-
-## Contributing
-
-Contributions are welcome.
-
-1. Fork the repo
-2. Create a new branch
-3. Make your changes
-4. Submit a pull request
-
----
-
-## License
-
-This project is open-source and available under the **MIT License**.
+- Add all 8 planets + moons
+- Planet information panel
+- Scale comparison mode
+- Orbit simulation
+- Multiplayer AR experience
 
 ---
 
 ## Author
 
 Adhish Gupta
-
----
-
-## Support
-
-If you like this project, consider giving it a star on GitHub.
+Unity Developer | AR/VR Enthusiast | Game Developer
 
 ---

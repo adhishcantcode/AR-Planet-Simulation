@@ -81,10 +81,23 @@ Assets/
 ## Screenshots
 
 <p align="center">
-  <img src="./images/Screenshot_20260323_170929_AR%20Planet%20Simulation.jpg" width="30%" style="margin: 5px;" />
-  <img src="./images/Screenshot_20260323_170938_AR%20Planet%20Simulation.jpg" width="30%" style="margin: 5px;" />
-  <img src="./images/Screenshot_20260323_170942_AR%20Planet%20Simulation.jpg" width="30%" style="margin: 5px;" />
+  <img src="./images/Screenshot_20260323_170929_AR%20Planet%20Simulation.jpg" width="22%" />
+  <img src="./images/Screenshot_20260323_170938_AR%20Planet%20Simulation.jpg" width="22%" />
+  <img src="./images/Screenshot_20260323_170942_AR%20Planet%20Simulation.jpg" width="22%" />
+  <img src="./images/WhatsApp%20Image%202026-03-23%20at%205.46.17%20PM.jpeg" width="22%" />
 </p>
+
+<p align="center">
+  <img src="./images/WhatsApp%20Image%202026-03-23%20at%205.46.18%20PM.jpeg" width="22%" />
+  <img src="./images/WhatsApp%20Image%202026-03-23%20at%205.46.22%20PM.jpeg" width="22%" />
+  <img src="./images/WhatsApp%20Image%202026-03-23%20at%205.46.26%20PM.jpeg" width="22%" />
+  <img src="./images/WhatsApp%20Image%202026-03-23%20at%205.46.28%20PM.jpeg" width="22%" />
+</p>
+
+<p align="center">
+  <img src="./images/ds.jpeg" width="22%" />
+</p>
+
 
 <p align="center">
   <img src="./images/WhatsApp%20Image%202026-03-23%20at%205.46.17%20PM.jpeg" width="30%" style="margin: 5px;" />

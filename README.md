@@ -5,7 +5,7 @@
   <img src="./images/demo2.gif" width="30%" />
 </p>
 
-An interactive **Augmented Reality (AR) Solar System experience** built with Unity. This project enables users to explore planets in an immersive way by selecting them through a UI and placing them into their real-world environment using AR.
+An interactive **Augmented Reality (AR) Planet experience** built with Unity. This project enables users to explore planets in an immersive way by selecting them through a UI and placing them into their real-world environment using AR.
 
 ---
 
@@ -132,6 +132,6 @@ git clone https://github.com/adhishcantcode/AR-Planet-Simulation.git
 ## Author
 
 Adhish Gupta
-Unity Developer | AR/VR Enthusiast
+Unity Developer | AR/VR Developer
 
 ---

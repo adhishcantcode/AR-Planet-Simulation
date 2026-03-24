@@ -12,10 +12,13 @@ An interactive **Augmented Reality (AR) Solar System experience** built with Uni
 ## Full Demo
 
 <p align="center">
-  <video src="https://github.com/user-attachments/assets/1fb81642-e709-4bc9-a0b5-041c56922ea5" controls width="45%" style="margin-right: 10px;"></video>
-  <video src="https://github.com/user-attachments/assets/ccb70e76-0c78-410e-af0e-a5345c65e5a0" controls width="45%"></video>
+  <a href="VIDEO_LINK_1">
+    <img src="./images/demo.gif" width="45%">
+  </a>
+  <a href="VIDEO_LINK_2">
+    <img src="./images/demo2.gif" width="45%">
+  </a>
 </p>
-
 ---
 
 ## Overview

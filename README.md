@@ -80,21 +80,21 @@ Assets/
 ## Screenshots
 
 <p align="center">
-  <img src="./images/img6" width="30%" style="margin: 5px;" />
-  <img src="./images/img7" width="30%" style="margin: 5px;" />
-  <img src="./images/img8" width="30%" style="margin: 5px;" />
+  <img src="./images/img6.jpg" width="30%" style="margin: 5px;" />
+  <img src="./images/img7.jpg" width="30%" style="margin: 5px;" />
+  <img src="./images/img8.jpg" width="30%" style="margin: 5px;" />
 </p>
 
 <p align="center">
-  <img src="./images/img1" width="30%" style="margin: 5px;" />
-  <img src="./images/img2" width="30%" style="margin: 5px;" />
-  <img src="./images/img3" width="30%" style="margin: 5px;" />
+  <img src="./images/img1.jpeg" width="30%" style="margin: 5px;" />
+  <img src="./images/img2.png" width="30%" style="margin: 5px;" />
+  <img src="./images/img3.png" width="30%" style="margin: 5px;" />
 </p>
 
 <p align="center">
-  <img src="./images/img4" width="30%" style="margin: 5px;" />
-  <img src="./images/img5" width="30%" style="margin: 5px;" />
-  <img src="./images/img9" width="30%" style="margin: 5px;" />
+  <img src="./images/img4.png" width="30%" style="margin: 5px;" />
+  <img src="./images/img5.png" width="30%" style="margin: 5px;" />
+  <img src="./images/img9.jpeg" width="30%" style="margin: 5px;" />
 </p>
 
 ---
